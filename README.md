@@ -25,7 +25,9 @@ Since this skin disable menu bar it will be a little bit triky:
    
 Edit $HOME/.kde4/share/config/yakuakerc file and remove wollowing entry:
    
-```Skin=cerberus```
+```
+Skin=cerberus
+```
    
 Save file and restart Yakuake
 
